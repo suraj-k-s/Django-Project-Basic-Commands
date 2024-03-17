@@ -15,7 +15,7 @@ All These commands based on Windows OS
     OR
 
    ```
-    pthon -m venv (environment name)
+    python -m venv (environment name)
     ```
     
 4. Activating Environment:
